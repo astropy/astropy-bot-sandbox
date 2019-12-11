@@ -43,7 +43,5 @@ message:
     updated:
         header: >
           Hello @{name} :wave:! It looks like you've made some changes in your
-          pull request, so I've checked the code again for style. I've listed
-          some small issues I found below, but please don't hesitate to ask if
-          any of them are unclear!
+          pull request, so I've checked the code again for style.
     no_errors: "There are no PEP8 style issues with this pull request - thanks! :tada:"
