@@ -1,6 +1,6 @@
 a=1
 def test():
-    pass
+     pass
 
 if a:
      print('hello')
